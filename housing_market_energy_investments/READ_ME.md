@@ -16,4 +16,4 @@ The **key findings of the extension** include:
 
 In essence, the extension project confirms that being close to a threshold not only increases the likelihood of *any* investment (as found in the original paper) but also increases the likelihood of a *specific type of investment* that strategically aims to just clear the next rating band.
 
-Link to roginial paper: https://www.aeaweb.org/articles?id=10.1257/app.20220329
+Link to original paper: https://www.aeaweb.org/articles?id=10.1257/app.20220329
